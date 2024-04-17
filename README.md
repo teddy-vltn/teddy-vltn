@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=teddy-vltn&color=brightgreen" alt="watching_count" />
 
 <!--
 **teddy-vltn/teddy-vltn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

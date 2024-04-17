@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://media1.tenor.com/m/fF4sTbrZvnsAAAAd/bober-kurwa.gif" alt="spinning" />
+
 <img src="https://komarev.com/ghpvc/?username=teddy-vltn&color=brightgreen" alt="watching_count" />
 
 <!--
